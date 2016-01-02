@@ -12,3 +12,6 @@ When you want to test and modify new versions or new features to your project, b
 
 How do the diagrams help you visualize the branch structure?
 You can check what nodes are going to be reachable by the current branches, and let you see in a graphic way how do they behave
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Unifying code of the 2 branches in which we've worked on, it's easier to read in a diagram
