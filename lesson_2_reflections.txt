@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+To let git know that we're about to do magic, git sets up everything we need to do checkouts and commits, starts repository settings.
+
+
