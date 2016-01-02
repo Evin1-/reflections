@@ -3,3 +3,6 @@ To let git know that we're about to do magic, git sets up everything we need to 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It offers you a temporary layer that you can modify to save the changes you might want to commit and finally upload to your repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use it to have a temporary state of the files in which you made that logical change only, then commit and so on
