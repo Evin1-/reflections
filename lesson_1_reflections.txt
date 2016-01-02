@@ -7,7 +7,8 @@ It's going to be easier for you to read old versions of your files to check if y
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 You are not going to get cluttered with information/changes you might not even understand when automatically saved
 
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?\Because you want to have a snapshot of all your documents that have a version of your code running saving multiple files
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+You want to have a snapshot of all your documents that have a version of your code running saving multiple files
 
 How can you use the commands git log and git diff to view the history of files?
 You can use git log to view the different commits in your file and git diff to compare between 2 commits and see what are there changes
