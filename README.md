@@ -1,4 +1,4 @@
 # reflections
-Reflections from the "How to Use Git and GitHub" course. Udacity.
+Reflections from the Udacity's course "How to Use Git and GitHub".
 
 https://www.udacity.com/
