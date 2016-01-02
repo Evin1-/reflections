@@ -15,3 +15,6 @@ You can check what nodes are going to be reachable by the current branches, and 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Unifying code of the 2 branches in which we've worked on, it's easier to read in a diagram
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic merging: Easy, fast. Cons: You might get conflicts. Manually its not that easy but you would handle with conflicts easily.
