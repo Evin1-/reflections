@@ -1,4 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 To let git know that we're about to do magic, git sets up everything we need to do checkouts and commits, starts repository settings.
 
-
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers you a temporary layer that you can modify to save the changes you might want to commit and finally upload to your repository
