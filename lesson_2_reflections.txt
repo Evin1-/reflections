@@ -6,3 +6,6 @@ It offers you a temporary layer that you can modify to save the changes you migh
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can use it to have a temporary state of the files in which you made that logical change only, then commit and so on
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to test and modify new versions or new features to your project, but are not sure that they will stay on production yet
