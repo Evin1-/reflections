@@ -11,7 +11,7 @@ What is the benefit of having a copy of the last known state of the remote store
 - So you don't have to look it up at the internet therefore you will be able to compare versions locally.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-- I would use svn it is very similar to it, but I ended up liking Git more as of right now!
+- I would use svn it is very similar to it, but I ended up liking Git more as of right now! It would be easier to colaborate with Git since it has multiple tools to track comments and code from other people
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 - When you want to work on different features is better if you work on branches and maybe you don't want to implement them yet in your main production ready project. But if you work with the master branch always you might save yourself the hassle of doing multiple merges.
